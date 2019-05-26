@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f274ac2a-012b-40f8-b8d5-e6219a71f1b9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1386">
+              <caret line="269" column="19" selection-start-line="269" selection-start-column="19" selection-end-line="269" selection-end-column="19" />
+              <folding>
+                <element signature="n#!!doc" />
+                <element signature="e#341#553#0" />
+                <element signature="e#582#749#0" />
+                <element signature="e#771#877#0" />
+                <element signature="e#815#877#0" />
+                <element signature="e#907#985#0" />
+                <element signature="e#1021#1083#0" />
+                <element signature="e#1113#1271#0" />
+                <element signature="e#1328#2243#0" />
+                <element signature="e#1516#2175#0" />
+                <element signature="e#2053#2175#0" />
+                <element signature="e#2268#3726#0" />
+                <element signature="e#2506#2728#0" />
+                <element signature="e#2747#3726#0" />
+                <element signature="e#2986#3643#0" />
+                <element signature="e#3517#3643#0" />
+                <element signature="e#3752#3999#0" />
+                <element signature="e#3794#3948#0" />
+                <element signature="e#3843#3948#0" />
+                <element signature="e#4057#5221#0" />
+                <element signature="e#4329#5221#0" />
+                <element signature="e#4398#5221#0" />
+                <element signature="e#4540#5132#0" />
+                <element signature="e#4582#4920#0" />
+                <element signature="e#5180#5221#0" />
+                <element signature="e#5248#6476#0" />
+                <element signature="e#5490#5523#0" />
+                <element signature="e#5695#6476#0" />
+                <element signature="e#5917#6476#0" />
+                <element signature="e#5987#6301#0" />
+                <element signature="e#6500#6826#0" />
+                <element signature="e#6628#6789#0" />
+                <element signature="e#6851#7078#0" />
+                <element signature="e#6886#7022#0" />
+                <element signature="e#7105#7303#0" />
+                <element signature="e#7330#7384#0" />
+                <element signature="e#7410#7494#0" />
+                <element signature="e#7525#8151#0" />
+                <element signature="e#7746#8151#0" />
+                <element signature="e#7786#8042#0" />
+                <element signature="e#7877#7957#0" />
+                <element signature="e#8069#8151#0" />
+                <element signature="e#8414#8852#0" />
+                <element signature="e#8654#8852#0" />
+                <element signature="e#8694#8775#0" />
+                <element signature="e#8908#9268#0" />
+                <element signature="e#8934#9268#0" />
+                <element signature="e#9015#9128#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rootdir</find>
+      <find>C:\Users\iamironman\pyjichu\others\project\FTP</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/server.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="1270" />
+    <option name="height" value="730" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FTP_server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FTP_server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FTP_server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f274ac2a-012b-40f8-b8d5-e6219a71f1b9" name="Default Changelist" comment="" />
+      <created>1558875574412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558875574412</updated>
+      <workItem from="1558875575560" duration="978000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="978000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1373" height="875" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23012869" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3292683" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FTP_server$server.coverage" NAME="server Coverage Results" MODIFIED="1558876399589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-726" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="269" column="19" selection-start-line="269" selection-start-column="19" selection-end-line="269" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#341#553#0" />
+            <element signature="e#582#749#0" />
+            <element signature="e#771#877#0" />
+            <element signature="e#815#877#0" />
+            <element signature="e#907#985#0" />
+            <element signature="e#1021#1083#0" />
+            <element signature="e#1113#1271#0" />
+            <element signature="e#1328#2243#0" />
+            <element signature="e#1516#2175#0" />
+            <element signature="e#2053#2175#0" />
+            <element signature="e#2268#3726#0" />
+            <element signature="e#2506#2728#0" />
+            <element signature="e#2747#3726#0" />
+            <element signature="e#2986#3643#0" />
+            <element signature="e#3517#3643#0" />
+            <element signature="e#3752#3999#0" />
+            <element signature="e#3794#3948#0" />
+            <element signature="e#3843#3948#0" />
+            <element signature="e#4057#5221#0" />
+            <element signature="e#4329#5221#0" />
+            <element signature="e#4398#5221#0" />
+            <element signature="e#4540#5132#0" />
+            <element signature="e#4582#4920#0" />
+            <element signature="e#5180#5221#0" />
+            <element signature="e#5248#6476#0" />
+            <element signature="e#5490#5523#0" />
+            <element signature="e#5695#6476#0" />
+            <element signature="e#5917#6476#0" />
+            <element signature="e#5987#6301#0" />
+            <element signature="e#6500#6826#0" />
+            <element signature="e#6628#6789#0" />
+            <element signature="e#6851#7078#0" />
+            <element signature="e#6886#7022#0" />
+            <element signature="e#7105#7303#0" />
+            <element signature="e#7330#7384#0" />
+            <element signature="e#7410#7494#0" />
+            <element signature="e#7525#8151#0" />
+            <element signature="e#7746#8151#0" />
+            <element signature="e#7786#8042#0" />
+            <element signature="e#7877#7957#0" />
+            <element signature="e#8069#8151#0" />
+            <element signature="e#8414#8852#0" />
+            <element signature="e#8654#8852#0" />
+            <element signature="e#8694#8775#0" />
+            <element signature="e#8908#9268#0" />
+            <element signature="e#8934#9268#0" />
+            <element signature="e#9015#9128#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
